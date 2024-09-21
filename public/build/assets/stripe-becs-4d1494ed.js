@@ -1,7 +1,7 @@
 var r=Object.defineProperty;var d=(n,t,e)=>t in n?r(n,t,{enumerable:!0,configurable:!0,writable:!0,value:e}):n[t]=e;var o=(n,t,e)=>(d(n,typeof t!="symbol"?t+"":t,e),e);/**
  * Invoice Ninja (https://invoiceninja.com)
  *
- * @link https://github.com/invoiceninja/invoiceninja source repository
+ * @link https://github.com/vanty200419/invoiceninja source repository
  *
  * @copyright Copyright (c) 2021. Invoice Ninja LLC (https://invoiceninja.com)
  *

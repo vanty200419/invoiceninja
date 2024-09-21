@@ -2,7 +2,7 @@
 <a href ="https://www.youtube.com/watch?v=CxGxXiotv0I" target="_blank" title="Invoice Ninja Overview Video"><img src="https://raw.githubusercontent.com/hillelcoren/invoice-ninja/master/public/images/round_logo.png" alt="Sublime's custom image"/></a>
 </p>
 
-![v5-develop phpunit](https://github.com/invoiceninja/invoiceninja/workflows/phpunit/badge.svg?branch=v5-develop)
+![v5-develop phpunit](https://github.com/vanty200419/invoiceninja/workflows/phpunit/badge.svg?branch=v5-develop)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d16c78aad8574466bf83232b513ef4fb)](https://www.codacy.com/gh/turbo124/invoiceninja/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=turbo124/invoiceninja&amp;utm_campaign=Badge_Grade)
 <a href="https://cla-assistant.io/invoiceninja/invoiceninja"><img src="https://cla-assistant.io/readme/badge/invoiceninja/invoiceninja" alt="CLA assistant" /></a>
 
@@ -61,7 +61,7 @@ All Pro and Enterprise features from the hosted app are included in the open-sou
 In addition to the official [Invoice Ninja - Self-Hosted Installation Guide](https://invoiceninja.github.io/en/self-host-installation/) we have a few commands for you.
 
 ```sh
-git clone --single-branch --branch v5-stable https://github.com/invoiceninja/invoiceninja.git
+git clone --single-branch --branch v5-stable https://github.com/vanty200419/invoiceninja.git
 cp .env.example .env
 composer i -o --no-dev
 ```
@@ -158,7 +158,7 @@ Also, if you plan any additions for the main repository, you may want to discuss
 * [Hillel Coren](https://hillelcoren.com/)
 * [David Bomba](https://github.com/turbo124)
 * [Benjamin Beganović](https://github.com/beganovich)
-* [All Contributors](https://github.com/invoiceninja/invoiceninja/graphs/contributors)
+* [All Contributors](https://github.com/vanty200419/invoiceninja/graphs/contributors)
 
 ## Security
 

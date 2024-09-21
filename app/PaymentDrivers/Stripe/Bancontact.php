@@ -3,7 +3,7 @@
 /**
  * Invoice Ninja (https://invoiceninja.com).
  *
- * @link https://github.com/invoiceninja/invoiceninja source repository
+ * @link https://github.com/vanty200419/invoiceninja source repository
  *
 * @copyright Copyright (c) 2024. Invoice Ninja LLC (https://invoiceninja.com)
  *
@@ -90,7 +90,7 @@ class Bancontact
 
     public function processSuccessfulPayment(string $payment_intent)
     {
-        /* @todo: https://github.com/invoiceninja/invoiceninja/pull/3789/files#r436175798 */
+        /* @todo: https://github.com/vanty200419/invoiceninja/pull/3789/files#r436175798 */
 
         //catch duplicate submissions.
         if (Payment::where('transaction_reference', $payment_intent)->exists()) {

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html data-report-errors="{{ $report_errors }}" data-rc="{{ $rc }}" data-user-agent="{{ $user_agent }}" data-login="{{ $login }}" data-signup="{{ $signup }}" data-white-label="{{ $white_label }}">
 <head>
-    <!-- Source: https://github.com/invoiceninja/invoiceninja -->
+    <!-- Source: https://github.com/vanty200419/invoiceninja -->
     <!-- Version: {{ config('ninja.app_version') }} -->
   <meta charset="UTF-8">
   <title>{{ $white_label ? "" : config('ninja.app_name')  }}</title>

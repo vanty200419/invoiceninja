@@ -2,7 +2,7 @@
 /**
  * Payment Ninja (https://paymentninja.com).
  *
- * @link https://github.com/invoiceninja/invoiceninja source repository
+ * @link https://github.com/vanty200419/invoiceninja source repository
  *
  * @copyright Copyright (c) 2022. Payment Ninja LLC (https://paymentninja.com)
  *

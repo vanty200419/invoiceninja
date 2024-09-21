@@ -2,7 +2,7 @@
 /**
  * Invoice Ninja (https://invoiceninja.com).
  *
- * @link https://github.com/invoiceninja/invoiceninja source repository
+ * @link https://github.com/vanty200419/invoiceninja source repository
  *
  * @copyright Copyright (c) 2024. Invoice Ninja LLC (https://invoiceninja.com)
  *
@@ -192,7 +192,7 @@ class SelfUpdateController extends BaseController
 
         $version = $this->checkVersion();
 
-        return "https://github.com/invoiceninja/invoiceninja/releases/download/v{$version}/invoiceninja.tar";
+        return "https://github.com/vanty200419/invoiceninja/releases/download/v{$version}/invoiceninja.tar";
 
     }
 }

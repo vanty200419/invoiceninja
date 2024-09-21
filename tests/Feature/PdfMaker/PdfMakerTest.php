@@ -2,7 +2,7 @@
 /**
  * Invoice Ninja (https://invoiceninja.com).
  *
- * @link https://github.com/invoiceninja/invoiceninja source repository
+ * @link https://github.com/vanty200419/invoiceninja source repository
  *
  * @copyright Copyright (c) 2021. Invoice Ninja LLC (https://invoiceninja.com)
  *
@@ -139,7 +139,7 @@ class PdfMakerTest extends TestCase
                             ['element' => 'td', 'content' => '$email'],
                             ['element' => 'td', 'content' => '$country', 'elements' => [
                                 ['element' => 'a', 'content' => 'Click here for a link', 'properties' => [
-                                    'href' => 'https://github.com/invoiceninja/invoiceninja',
+                                    'href' => 'https://github.com/vanty200419/invoiceninja',
                                 ]],
                             ]],
                         ]],

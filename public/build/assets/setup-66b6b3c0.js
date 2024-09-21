@@ -1,7 +1,7 @@
 import{A as a}from"./index-08e160a7.js";import"./_commonjsHelpers-725317a4.js";/**
  * Invoice Ninja (https://invoiceninja.com)
  *
- * @link https://github.com/invoiceninja/invoiceninja source repository
+ * @link https://github.com/vanty200419/invoiceninja source repository
  *
  * @copyright Copyright (c) 2021. Invoice Ninja LLC (https://invoiceninja.com)
  *

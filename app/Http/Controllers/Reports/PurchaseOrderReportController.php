@@ -2,7 +2,7 @@
 /**
  * PurchaseOrder Ninja (https://invoiceninja.com).
  *
- * @link https://github.com/invoiceninja/invoiceninja source repository
+ * @link https://github.com/vanty200419/invoiceninja source repository
  *
  * @copyright Copyright (c) 2024. PurchaseOrder Ninja LLC (https://invoiceninja.com)
  *

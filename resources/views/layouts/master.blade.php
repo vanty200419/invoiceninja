@@ -2,7 +2,7 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
 
-    <!-- Source: https://github.com/invoiceninja/invoiceninja -->
+    <!-- Source: https://github.com/vanty200419/invoiceninja -->
     <!-- Error: {{ session('error') }} -->
 
     @if (config('services.analytics.tracking_id'))

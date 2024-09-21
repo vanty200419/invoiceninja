@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html data-report-errors="{{ $report_errors }}" data-rc="{{ $rc }}" data-user-agent="{{ $user_agent }}" data-login="{{ $login }}">
 <head>
-    <!-- Source: https://github.com/invoiceninja/invoiceninja -->
+    <!-- Source: https://github.com/vanty200419/invoiceninja -->
     <!-- Version: {{ config('ninja.app_version') }} -->
   <meta charset="UTF-8">
   <title>{{ config('ninja.app_name') }}</title>
@@ -21,7 +21,7 @@
 
 If you are reading this, there is a fair change that the react application has not loaded for you. There are a couple of solutions:
 
-1. Download the release file from https://github.com/invoiceninja/invoiceninja and overwrite your current installation.
+1. Download the release file from https://github.com/vanty200419/invoiceninja and overwrite your current installation.
 2. Switch back to the Flutter application by editing the database, you can do this with the following SQL
 
 UPDATE accounts SET
