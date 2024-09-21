@@ -1671,8 +1671,8 @@ $lang = array(
     'country_Zambia' => 'Zambia',
 
     // Languages
-    'lang_English' => 'English',
-    'lang_Viet Nam' => 'Tiếng Việt',
+    'lang_English - United States' => 'English',
+    'lang_Vietnamse' => 'Tiếng Việt',
 
 
     // Industries
